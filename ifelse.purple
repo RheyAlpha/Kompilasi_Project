@@ -1,0 +1,5 @@
+a = 10
+x = "Benar"
+y = "Salah"
+
+ALS a * 5 / 5 == 10 DAN AFDRUK x ANDERS y
