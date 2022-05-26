@@ -15,6 +15,14 @@ Purple Language merupakan bahasa permograman berbasis python dengan memanfaatkan
 
 Purple Language ini memiliki ekstensi .purple
 
+
+## Instalasi 
+
+- Proses instalasi bahasa pemrograman Purple adalah dengan cara mengunduh source code dari bahasa pemrograman Purple. 
+- Kemudian buka dan jalankan file bernama main.py pada console. Setelah itu, pengguna bisa mulai membuat program pada console dan menjalankannya pada console. 
+
+## Cara Penggunaan
+
 - Buka terminal arahkan ke folder `cd .../Kompilasi_Project/`
 - Ketik command pada terminal `python main.py (namafile).purple`
 
