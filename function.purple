@@ -1,2 +1,2 @@
-PRET coba() -> AFDRUK "huenakkkk"
+SERU coba() -> CETAK "huenakkkk"
 coba()
