@@ -1,8 +1,11 @@
-# Proect kelompok 1 Teknik Kompilasi
+# Proect Akhir kelompok 1 Teknik Kompilasi
 
 Rheynald Hasan A. 	(4611420021)
+
 Ayu Fitriani 		    (4611420032)
+
 Alifia Prastiwi 	  (4611420045)
+
 Yoga Fatwanto 	    (4611420047)
 
 
