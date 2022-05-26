@@ -13,7 +13,7 @@ Yoga Fatwanto 	    (4611420047)
 
 Purple Language merupakan bahasa permograman berbasis python dengan memanfaatkan SLY Library
 
-Purple Language ini memiliki ekstensi '.purple'
+Purple Language ini memiliki ekstensi `.purple`
 
 
 ## Instalasi 
