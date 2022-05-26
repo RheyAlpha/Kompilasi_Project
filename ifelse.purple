@@ -1,0 +1,5 @@
+a = 10
+x = "Benar"
+y = "Salah"
+
+JIKA a * 5 / 5 == 10 MAKA CETAK x LAIN y
